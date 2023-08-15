@@ -1,7 +1,7 @@
 # Priorizando Hipóteses para Aumento de Receitas
 
 # Objetivo do Projeto
-Dentre as hipóteses apresentadas pelo setor de Marketing, priorizar através do Teste A/B aquelas que podem aumentar a receita
+Dentre as hipóteses apresentadas pelo setor de Marketing, priorizar através do Teste A/B aquelas que podem aumentar a receita.
 
 # Bibliotecas Utilizadas
 Pandas
