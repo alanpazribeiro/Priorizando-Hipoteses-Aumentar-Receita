@@ -34,14 +34,14 @@ Seaborn
  - *group* — grupo de teste A/B
  - visits* — o número de visitas na data especificada para o grupo de teste A/B especificado
 
-A - Parte 1. Priorizando Hipóteses
+A - Parte 1 - Priorizando Hipóteses
 
 O arquivo hypotheses_us.csv contém nove hipóteses para aumentar a receita de uma loja online com Reach, Impact, Confidence e Effort especificados para cada um. A tarefa é:
  - Aplicar o framework ICE para priorizar hipóteses. Classifique-os em ordem decrescente de prioridade.
  - Aplicar o framework RICE para priorizar hipóteses. Classifique-os em ordem decrescente de prioridade.
  - Mostre como a priorização de hipóteses muda quando você usa RICE em vez de ICE. Dê uma explicação para as alterações.
 
-B - Parte 2. Análise de teste A/B
+B - Parte 2 - Análise de teste A/B
 
 Você realizou um teste A/B e obteve os resultados descritos nos arquivos orders_us.csv e visitors_us.csv. A tarefa é:
 
