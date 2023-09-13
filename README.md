@@ -4,12 +4,12 @@
 Dentre as hipóteses apresentadas pelo setor de Marketing, priorizar através do Teste A/B aquelas que podem aumentar a receita.
 
 # Bibliotecas Utilizadas
-Pandas
-Matplotlib
-Numpy
-Scipy
-Math
-Seaborn
+ - Pandas
+ - Matplotlib
+ - Numpy
+ - Scipy
+ - Math
+ - Seaborn
 
 ### Descrição dos Dados:
 
